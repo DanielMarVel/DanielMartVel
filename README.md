@@ -4,8 +4,7 @@ Repositorio sesión 17
 - 👀 I’m interested in Telecommunications Technologies 
 - 💡 I’m currently applying to [Ericsson](https://www.ericsson.com/en)
 - ⛷ Ask me about 4G, 5G and new wireless technologies 
-- 🧐 How to reach me:
--   📪 [LinkedIn](www.linkedin.com/in/danielMartinezVelazquez)
+- 🧐 How to reach me: 📪 [LinkedIn](www.linkedin.com/in/danielMartinezVelazquez)
 
 <!---
 DanielMarVel/DanielMarVel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
